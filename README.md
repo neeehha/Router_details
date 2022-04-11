@@ -1,5 +1,4 @@
 # Router_details
-# Router-Details
 This is a python Django project based on MVC-MVT framework, which basically performs CRUD application on "router details" table
 
 Router details table fields are
