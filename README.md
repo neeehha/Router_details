@@ -1,4 +1,4 @@
-# Router-Details
+Assignment 1  # Router-Details
 This is a python Django project based on MVC-MVT framework, which basically performs CRUD application on "router details" table
 
 Router details table fields are
@@ -14,3 +14,10 @@ All the Create, update, view, delete and view_in_range methods are defined in ro
 All the application urls are in router/urls.py 
 
 Mutiple Unit tests has been created
+
+
+Assignment 2
+Using netmiko library to
+i) SSH to the server. Run a command(ls) on the server and save its output to an 
+external text file
+ii) File transfer to the server(FTP)
